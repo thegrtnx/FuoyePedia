@@ -1,0 +1,22 @@
+{
+  "short_name": "FuoyePedia",
+  "name": "FuoyePedia",
+  "description": "An online PDF Bank",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "img/pwa.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "start_url": "./?v3&utm_source=web_app_manifest",
+  "background_color": "#ffffff",
+  "theme_color": "#ea728c",
+  "color": "#000000",
+  "display": "standalone",
+  "related_applications": [{
+    "platform": "web",
+    "url": "https://fuoypedia.com.ng"
+  }]
+}
